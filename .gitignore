@@ -1,5 +1,6 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+zip
+csv
+bng
+GeoLite
+xt_geoip
+node_modules
